@@ -21,5 +21,5 @@ Welcome to my GitHub repository showcasing my solutions to various Kaggle compet
 - **My Approach**: I began by experimenting with preprocessing techniques but found minimal improvement in the area under the curve (AUC) score. Techniques such as log transformations for skewed data, scaling, and dropping unimportant columns were tested.
 After preprocessing, I employed the XGBoost algorithm due to its effectiveness in handling complex data. Hyperparameter tuning was conducted to optimize model performance, resulting in accurate predictions for the competitions.
 - **Results**: Current AUC score of 0.89345, 272/1072
-- **Takeaways**: This was my first kaggle competition entered and soon realised that I would need to expand the machine learning algorithms and data pre-processing techniques that are required to create accurate models
+- **Takeaways**: 
 
